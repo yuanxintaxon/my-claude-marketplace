@@ -8,8 +8,8 @@
       "name": "flutter-getx-toolkit",
       "description": "Scaffolding, review agents, and rules for Flutter + GetX projects",
       "source": {
-        "source": "github",
-        "repo": "yuanxintaxon/flutter-getx-toolkit"
+        "source": "git",
+        "url": "https://github.com/yuanxintaxon/flutter-getx-toolkit.git"
       }
     }
   ]
