@@ -1,0 +1,16 @@
+{
+  "name": "liyuanxin-tools",
+  "owner": {
+    "name": "liyuanxin"
+  },
+  "plugins": [
+    {
+      "name": "flutter-getx-toolkit",
+      "description": "Scaffolding, review agents, and rules for Flutter + GetX projects",
+      "source": {
+        "source": "github",
+        "repo": "liyuanxin/flutter-getx-toolkit"
+      }
+    }
+  ]
+}
