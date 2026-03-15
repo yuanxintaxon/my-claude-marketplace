@@ -12,7 +12,7 @@ Personal Claude Code plugin marketplace.
 
 ```bash
 # Register this marketplace
-/plugin marketplace add liyuanxin/my-claude-marketplace
+/plugin marketplace add https://github.com/yuanxintaxon/my-claude-marketplace.git
 
 # Install a plugin
 /plugin install flutter-getx-toolkit@liyuanxin-tools
